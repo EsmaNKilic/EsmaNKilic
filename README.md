@@ -1,9 +1,9 @@
 <h1 align="center">Hi everyone <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a> , I'm Esma Nur KILIÇ</h1>
 <h3 align="left">I'm a new graduate and;</h3>
 
-<p align="left"> - 🔭 I’m currently working on Full Stack Developer👩‍💻 >
-<p align="left"> - 🌱 I’m currently learning Java, JavaScript, React >
-<p align="left"> - ⚡ Fun fact: I love painting, reading, cooking and play fencing🤺 >
+<p align="left"> - 🔭 I’m currently working on Full Stack Developer👩‍💻 
+<p align="left"> - 🌱 I’m currently learning Java, JavaScript, React 
+<p align="left"> - ⚡ Fun fact: I love painting, reading, cooking and play fencing🤺 
 
 <h3 align="left">🤙 Contact with Me: </h3>
 
