@@ -3,7 +3,7 @@
 
 <p align="left"> - 🔭 I'm currently trying to be the best at Full Stack Developer 👩‍💻 
 <p align="left"> - 🌱 I’m currently learning Java, JavaScript, React 
-<p align="left"> - ⚡ Fun fact: I love painting, reading, cooking and play fencing🤺 
+<p align="left"> - ⚡ Fun fact: I love painting, reading, cooking and play fencing 🤺 
 
 <h3 align="left">🤙 Contact with Me: </h3>
 
