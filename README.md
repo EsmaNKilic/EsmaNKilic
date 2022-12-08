@@ -2,7 +2,7 @@
 <h3 align="left">I'm a new graduate and;</h3>
 
 <p align="left"> - 🔭 I'm currently trying to be the best at Backend Developer 👩‍💻 
-<p align="left"> - 🌱 I’m currently learning Java, JavaScript, React 
+<p align="left"> - 🌱 I’m currently learning JavaScript, React 
 <p align="left"> - ⚡ Fun fact: I love painting, reading, cooking and play fencing 🤺 
 
 <h3 align="left">🤙 Contact with Me: </h3>
