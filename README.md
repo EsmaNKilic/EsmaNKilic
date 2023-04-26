@@ -16,5 +16,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsmaNKilic&layout=compact&theme=synthwave)](https://github.com/EsmaNKilic/github-readme-stats)
 
-
-![Esma's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsmaNKilic&show_icons=true&theme=gruvbox)
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EsmaNKilic&theme=neon&hide_border=true&border_radius=7)](https://git.io/streak-stats)
